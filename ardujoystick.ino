@@ -35,8 +35,8 @@ void setup() {
   Keyboard.begin();
   pinMode(Pin_crea, INPUT_PULLUP);
   pinMode(Pin_distruggi, INPUT_PULLUP);
-  pinMode(pinY_t; INPUT);
-  pinMode(pinX_t; INPUT);
+  pinMode(pinY_t, INPUT);
+  pinMode(pinX_t, INPUT);
 }
 
 
